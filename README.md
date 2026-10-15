@@ -10,8 +10,8 @@
 
 | 平台 | 文件 |
 |---|---|
-| Android 手机 / 平板 | `hongguobox-0.3.0-android.apk` |
-| macOS（Apple 芯片） | `hongguobox-0.3.0-macos.dmg` |
+| Android 手机 / 平板 | `hongguobox-0.4.0-android.apk` |
+| macOS（Apple 芯片） | `hongguobox-0.4.0-macos.dmg` |
 
 ## 安装
 
@@ -21,7 +21,7 @@
 
 ### macOS
 
-适用于 macOS 12+、Apple 芯片。下载 `hongguobox-0.3.0-macos.dmg` 并打开，将「红果盒子.app」拖入「Applications / 应用程序」。替换旧版本前请先退出应用。
+适用于 macOS 12+、Apple 芯片。下载 `hongguobox-0.4.0-macos.dmg` 并打开，将「红果盒子.app」拖入「Applications / 应用程序」。替换旧版本前请先退出应用。
 
 应用使用 ad-hoc 签名，尚无 Developer ID、未经 Apple 公证。首次打开若被系统拦截，可选择以下一种方法：
 
@@ -38,7 +38,7 @@
 
 应用启动时及「我的 → 关于 → 检查更新」会读取本仓库最新 Release 中的 `latest.json`，有新版本时提示下载。macOS 会将 DMG 保存到「下载」并打开，随后需手动拖入「应用程序」替换；Android 下载校验后打开系统安装器。
 
-**0.2.0 升级说明**：旧版清单解析只接受 macOS zip，无法读取新版 DMG 清单（包括 Android 端）。Mac 用户请从 Releases 手动下载并安装 0.3.0 一次；Android 0.2.0 用户也需手动安装新版，之后可使用应用内更新。
+**0.2.0 升级说明**：旧版清单解析只接受 macOS zip，无法读取新版 DMG 清单（包括 Android 端）。Mac 用户请从 Releases 手动下载并安装 0.4.0 一次；Android 0.2.0 用户也需手动安装新版，之后可使用应用内更新。
 
 ## 声明
 
