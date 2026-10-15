@@ -1,4 +1,4 @@
-# 果幕
+# 红果盒子
 
 非官方的红果短剧第三方客户端，个人自用。
 
@@ -6,17 +6,17 @@
 
 ## 下载
 
-在 [Releases](https://github.com/Fatal0607/guomu-releases/releases) 下载最新版本：
+在 [Releases](https://github.com/Fatal0607/hongguobox-releases/releases) 下载最新版本：
 
 | 平台 | 文件 |
 |---|---|
-| Android 手机 / 平板 | `guomu-<版本>-android.apk` |
-| macOS（Apple 芯片） | `guomu-<版本>-macos.zip` |
+| Android 手机 / 平板 | `hongguobox-<版本>-android.apk` |
+| macOS（Apple 芯片） | `hongguobox-<版本>-macos.zip` |
 
 ## 安装
 
 - **Android**：下载 APK 后打开安装；首次安装需在系统设置中允许「安装未知应用」。
-- **macOS**：解压后将「果幕」拖入「应用程序」。应用未经 Apple 公证，首次打开请在 Finder 中右键 →「打开」。
+- **macOS**：解压后将「红果盒子」拖入「应用程序」。应用未经 Apple 公证，首次打开请在 Finder 中右键 →「打开」。
 
 ## 更新
 
