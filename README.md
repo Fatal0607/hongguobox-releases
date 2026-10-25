@@ -10,9 +10,9 @@
 
 | 平台 | 文件 |
 |---|---|
-| Android 手机 / 平板 | [hongguobox-0.9.1-android.apk](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.1/hongguobox-0.9.1-android.apk) |
-| macOS（Apple 芯片） | [hongguobox-0.9.1-macos.dmg](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.1/hongguobox-0.9.1-macos.dmg) |
-| Windows 10/11（x64） | [hongguobox-0.9.1-windows-x64.zip](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.1/hongguobox-0.9.1-windows-x64.zip) |
+| Android 手机 / 平板 | [hongguobox-0.9.2-android.apk](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.2/hongguobox-0.9.2-android.apk) |
+| macOS（Apple 芯片） | [hongguobox-0.9.2-macos.dmg](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.2/hongguobox-0.9.2-macos.dmg) |
+| Windows 10/11（x64） | [hongguobox-0.9.2-windows-x64.zip](https://github.com/Fatal0607/hongguobox-releases/releases/download/v0.9.2/hongguobox-0.9.2-windows-x64.zip) |
 
 ## 安装
 
@@ -22,7 +22,7 @@
 
 ### macOS
 
-适用于 macOS 12+、Apple 芯片。下载 `hongguobox-0.9.1-macos.dmg` 并打开，将「红小果.app」拖入「Applications / 应用程序」。替换旧版本前请先退出应用。
+适用于 macOS 12+、Apple 芯片。下载 `hongguobox-0.9.2-macos.dmg` 并打开，将「红小果.app」拖入「Applications / 应用程序」。替换旧版本前请先退出应用。
 
 应用使用 ad-hoc 签名，尚无 Developer ID、未经 Apple 公证。首次打开若被系统拦截，可选择以下一种方法：
 
@@ -45,13 +45,13 @@
 
 ## 更新
 
-应用现名「红小果」。应用标识与账号存储保持不变，已有版本可继续应用内更新，无需卸载重装或因改名重新登录。安装包仍使用 `hongguobox-0.9.1-*` 文件名前缀。
+应用现名「红小果」。应用标识与账号存储保持不变，已有版本可继续应用内更新，无需卸载重装或因改名重新登录。安装包仍使用 `hongguobox-0.9.2-*` 文件名前缀。
 
 应用启动时及「我的 → 关于 → 检查更新」会读取本仓库最新 Release 中的 `latest.json`，有新版本时提示下载。macOS 会将 DMG 保存到「下载」并打开，随后需手动拖入「应用程序」替换；Android 下载校验后打开系统安装器。
 
 Windows 打开对应版本 Release 页，手动下载 ZIP、退出应用并解压替换。
 
-**0.2.0 升级说明**：旧版清单解析只接受 macOS zip，无法读取新版 DMG 清单（包括 Android 端）。Mac 用户请从 Releases 手动下载并安装 0.9.1 一次；Android 0.2.0 用户也需手动安装新版，之后可使用应用内更新。
+**0.2.0 升级说明**：旧版清单解析只接受 macOS zip，无法读取新版 DMG 清单（包括 Android 端）。Mac 用户请从 Releases 手动下载并安装 0.9.2 一次；Android 0.2.0 用户也需手动安装新版，之后可使用应用内更新。
 
 ## 声明
 
